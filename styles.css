@@ -1,0 +1,22 @@
+.hi {
+   color: blue;
+}
+#hlo {
+   color:black   
+}
+li:first-child{
+   color:black;
+}
+a:link{
+   color:blue;
+}
+
+a:hover{
+   color: brown;
+}
+textarea~button{
+   color:violet ;
+}
+img{
+   border:10px solid black;
+}
